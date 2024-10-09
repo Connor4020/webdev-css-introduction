@@ -14,3 +14,40 @@
     color:#565254;
 
 }
+
+#footer {
+    text-align: center;
+}
+
+.highlight-hover:hover {
+    color:#7A7D7D;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.horizontal-list {
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 114px;
+    text-decoration: none;
+  }
